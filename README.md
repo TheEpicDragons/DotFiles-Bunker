@@ -6,9 +6,9 @@ configs for stuff
 - fish themes
 - neofetch themes
 # Desktop
-Wm
+# Wm
 - i3 themes
 - Awesome themes
-Normal desktops
+# Normal desktops
 - KDE configs (latte)
 
